@@ -110,7 +110,7 @@ export default function TermsPage() {
               <br />
               Email: info@stockmarketxperts.com
               <br />
-              Phone: 8828727658
+              Phone: 8976675160
             </p>
           </section>
 

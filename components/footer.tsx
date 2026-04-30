@@ -45,7 +45,7 @@ export function Footer() {
             <div className="space-y-2 text-gray-300">
               <p>Stock Market Xperts 403 Neptune village Otswald world Thane 400612</p>
               <p className="mt-3">info@stockmarketxperts.com</p>
-              <p>8828727658</p>
+              <p>8976675160</p>
             </div>
           </div>
         </div>

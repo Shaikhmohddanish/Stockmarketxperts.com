@@ -123,7 +123,7 @@ export default function PrivacyPage() {
               <br />
               Email: info@stockmarketxperts.com
               <br />
-              Phone: 8828727658
+              Phone: 8976675160
               <br />
               Address: Stock Market Xperts 403 Neptune village Otswald world Thane 400612
             </p>
